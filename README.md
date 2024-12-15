@@ -1,6 +1,8 @@
-# Exercise-04c-Enemies
+# Exercise-04d
 
 ## Implementation
+2 Levels
+Wall Jumps
 
 ## References
 
@@ -12,6 +14,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+More levels, upggraded sprites, sfx, etc.
 
 ## Created by
 Trinity Fritz
